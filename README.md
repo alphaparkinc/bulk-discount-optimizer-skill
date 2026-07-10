@@ -1,4 +1,4 @@
-# bulk-discount-optimizer-skill
+# genpark-bulk-discount-optimizer-skill
 
 > **GenPark AI Agent Skill** -- Tiered bulk discounts and profit margin optimizer.
 
